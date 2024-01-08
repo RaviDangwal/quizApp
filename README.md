@@ -5,6 +5,5 @@ Welcome to my Quiz App! This interactive application is designed to offer a fun 
 
 ## Features
 - **Interactive Questions**: The app presents a series of questions on different topics, challenging users to select the correct answers.
-- **Instant Feedback**: Get immediate feedback on your answers to learn and improve as you go.
 - **Score Tracking**: The app keeps track of your scores, allowing you to see your progress over time.
 - **Responsive Design**: Enjoy a seamless experience across various devices and screen sizes.
